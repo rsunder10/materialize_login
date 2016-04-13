@@ -1,0 +1,8 @@
+.modal { width: 95% !important; max-height: 90% !important;  } 
+
+
+.picker__holder{
+background: none !important;
+overflow-y: visible !important;
+
+}
